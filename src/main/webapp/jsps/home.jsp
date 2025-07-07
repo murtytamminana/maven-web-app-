@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to MMX,DCMU</h1>
-<h1 align="center"> TN MURTY</h1>
+<h1 align="center">WELCOME TO DATA CENTER MANAGEMENT UNIT</h1>
+<h1 align="center"> BENGALORE</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
