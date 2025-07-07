@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://52.91.115.168:8081/repository/flipkart-release/</url>
+	      <url>http://52.91.115.168:8081/repository/maven-snapshots/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://52.91.115.168:8081/repository/flipkart-snapshot/</url>
+	      <url>http://52.91.115.168:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
@@ -132,6 +132,7 @@
 					<webApp>
 						<contextPath>/maven-web-application</contextPath>
 					</webApp>
+				
 				</configuration>
 			</plugin>
 
