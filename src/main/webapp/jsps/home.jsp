@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>KK FUNDA Home Page</title>
+<title>DCMU Home Page</title>
 <link href="images/kkfunda.jpg" rel="icon">
 </head>
 </head>
@@ -34,13 +34,13 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/kkfunda.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		KK FUNDA, 
-		Martha Halli, Banglore,
-		Bangalore,
+		MMX, 
+		ASWATH NAGAR, Banglore,
+		BENGALORE
 		+91-9676831734,+91-9676831734
-		kkeducationblr@gmail.com
+		tango143143@gmail.com
 		<br>
-		<a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
+		<a href="mailto:tango143143@gmail.com">Mail to DCMU</a>
 	</span>
 </div>
 <hr>
