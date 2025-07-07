@@ -84,13 +84,7 @@
 		
 		<!-- provided dependencies -->
 
-		<dependency>
-			<groupId>javax.servlet</groupId>
-			<artifactId>javax.servlet-api</artifactId>
-			<version>3.1.0</version>
-			<scope>provided</scope>
-		</dependency>
-		
+				
 	</dependencies>
 	
 	<distributionManagement>
@@ -103,7 +97,6 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>KK FUNDA Snapshot Nexus Repository </name>
 	      <url>http://52.91.115.168:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
