@@ -9,11 +9,11 @@
 	
 	<name>maven-web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>WELCOME TO MMX TEAM, DCMU</description>
 
 	<organization>
-		<name>KK FUNDA</name>
-		<url>http://kkfunda.com</url>
+		<name>TN MURTY</name>
+		<url>http://mmx.com</url>
 	</organization>
 
 	<properties>
