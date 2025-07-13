@@ -1,11 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<%@ page import="java.net.*" %>
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>KK FUNDA Home Page</title>
-    <link href="images/kkfunda.jpg" rel="icon">
+    <title>Indian Air Force | KK FUNDA</title>
+    <link href="images/iaf-logo.png" rel="icon">
     <style>
         body {
             background-color: #f4faff;
@@ -18,19 +17,32 @@
         .header {
             text-align: center;
             padding: 20px 10px;
-            background-color: #004080;
+            background-color: #003366;
             color: white;
+        }
+
+        .header img {
+            width: 100px;
+            margin-bottom: 10px;
         }
 
         .header h1 {
             margin: 10px 0;
+            font-size: 32px;
         }
 
-        hr {
-            border: 0;
-            height: 2px;
-            background-color: #007acc;
-            margin: 20px 0;
+        .header h2 {
+            margin: 5px 0;
+            font-size: 20px;
+            color: #cce6ff;
+        }
+
+        .quote {
+            text-align: center;
+            font-style: italic;
+            margin-top: 15px;
+            font-size: 18px;
+            color: #005580;
         }
 
         .section {
@@ -40,11 +52,6 @@
             border-radius: 8px;
             box-shadow: 0 4px 12px rgba(0,0,0,0.1);
             padding: 20px;
-        }
-
-        .section h2 {
-            color: #004d99;
-            margin-bottom: 15px;
         }
 
         .contact {
@@ -90,30 +97,13 @@
 <body>
 
 <div class="header">
-    <h1>Welcome to KK DevOps</h1>
-    <h1>KK FUNDA</h1>
+    <img src="images/iaf-logo.png" alt="Indian Air Force Logo">
+    <h1>JAI HIND – PROUD TO SERVE</h1>
+    <h2>Powered by KK FUNDA | DevOps for Defence</h2>
 </div>
 
-<div class="section">
-    <h2>🔧 Server Side Information</h2>
-    <p>
-        <%
-            InetAddress inetAddress = InetAddress.getLocalHost();
-            String ip = inetAddress.getHostAddress();
-            out.println("✅ Server Host Name: " + inetAddress.getHostName() + "<br>");
-            out.println("✅ Server IP Address: " + ip);
-        %>
-    </p>
-</div>
-
-<div class="section">
-    <h2>🌐 Client Side Information</h2>
-    <p>
-        <%
-            out.println("📌 Client IP Address: " + request.getRemoteAddr() + "<br>");
-            out.println("📌 Client Host Name: " + request.getRemoteHost());
-        %>
-    </p>
+<div class="quote">
+    🇮🇳 "It is better to live for the nation than to die for self." – Anonymous Deshbhakt
 </div>
 
 <div class="section contact">
