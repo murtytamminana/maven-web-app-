@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Indian Air Force | KK FUNDA</title>
+    <title>Indian Air Force | DevOps for Nation</title>
     <link href="images/iaf-logo.png" rel="icon">
     <style>
         body {
@@ -11,7 +11,7 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
             padding: 0;
-            color: #332;
+            color: #333;
         }
 
         .header {
@@ -54,28 +54,13 @@
             padding: 20px;
         }
 
-        .contact {
-            text-align: center;
-            font-weight: bold;
-            line-height: 1.6;
-        }
-
-        .contact img {
-            margin-bottom: 10px;
-        }
-
-        .service {
+        .patriotism ul {
+            padding-left: 20px;
             font-size: 16px;
-            text-align: center;
         }
 
-        .service a {
-            color: #0066cc;
-            text-decoration: none;
-        }
-
-        .service a:hover {
-            text-decoration: underline;
+        .patriotism li {
+            margin-bottom: 10px;
         }
 
         .footer {
@@ -87,6 +72,7 @@
 
         a {
             color: #007acc;
+            text-decoration: none;
         }
 
         a:hover {
@@ -98,29 +84,29 @@
 
 <div class="header">
     <img src="images/iaf-logo.png" alt="Indian Air Force Logo">
-    <h1>JAI HIND – PROUD TO SERVE</h1>
-    <h2>Powered by KK FUNDA | DevOps for Defence</h2>
+    <h1>INDIAN AIR FORCE – TOUCH THE SKY WITH GLORY</h1>
+    <h2>DevOps for Defence | Serving the Nation Through Technology</h2>
 </div>
 
 <div class="quote">
-    🇮🇳 "It is better to live for the nation than to die for self." – Anonymous Deshbhakt
+    🇮🇳 "Service to the nation is the highest duty of every citizen." – Deshbhakt Thought
 </div>
 
-<div class="section contact">
-    <img src="images/kkfunda.jpg" alt="KK FUNDA Logo" width="100"><br>
-    KK FUNDA, Martha Halli, Bangalore<br>
-    📞 +91-9676831734, +91-9676831734<br>
-    📧 <a href="mailto:kkeducationblr@gmail.com">kkeducationblr@gmail.com</a><br><br>
-    <a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
-</div>
-
-<div class="section service">
-    🛠️ Service: <a href="services/employee/getEmployeeDetails">Get Employee Details</a>
+<div class="section patriotism">
+    <h2>🇮🇳 Live for the Country – Spirit of Patriotism</h2>
+    <ul>
+        <li>💡 Be proud to wear the uniform, whether digital or in defense.</li>
+        <li>🛡️ Stand for integrity, unity, and sovereignty of India.</li>
+        <li>💻 Use your skills to build and protect national infrastructure.</li>
+        <li>📜 Respect the Constitution and uphold national values.</li>
+        <li>🌏 Represent India’s excellence with dignity wherever you are.</li>
+        <li>🎖️ Remember: Not all heroes wear capes—some deploy code.</li>
+    </ul>
 </div>
 
 <div class="footer">
-    <p>📚 KK FUNDA Training & Development Center</p>
-    <p>&copy; 2024 by <a href="https://www.google.com/" target="_blank">KK FUNDA</a></p>
+    <p>🇮🇳 Jai Hind | Dedicated to the Spirit of Indian Armed Forces</p>
+    <p>&copy; 2024 | Developed for National Pride</p>
 </div>
 
 </body>
