@@ -1,5 +1,4 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<%@ page import="java.net.*" %>
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,7 +13,7 @@
         color: #333;
     }
     h1.title {
-        color: darkblue;
+        color: #006699; /* Updated heading color */
         text-align: center;
         margin-top: 20px;
     }
@@ -55,28 +54,6 @@
 <h1 class="title">WELCOME TO DATA CENTER MANAGEMENT UNIT</h1>
 <h1 class="title">BENGALURU</h1>
 <hr>
-
-<div class="section">
-    <h2>🔧 Server Side IP Address</h2>
-    <p>
-    <%
-        InetAddress inetAddress = InetAddress.getLocalHost();
-        String ip = inetAddress.getHostAddress();
-        out.println("✅ Server Host Name: " + inetAddress.getHostName() + "<br>");
-        out.println("✅ Server IP Address: " + ip);
-    %>
-    </p>
-</div>
-
-<div class="section">
-    <h2>🌐 Client Side IP Address</h2>
-    <p>
-    <%
-        out.println("📌 Client IP Address: " + request.getRemoteAddr() + "<br>");
-        out.println("📌 Client Host Name: " + request.getRemoteHost());
-    %>
-    </p>
-</div>
 
 <div class="section contact-info">
     <img src="images/kkfunda.jpg" alt="KK FUNDA Logo" width="100"><br><br>
