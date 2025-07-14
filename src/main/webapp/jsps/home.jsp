@@ -58,8 +58,7 @@
 <div class="section contact-info">
     <!-- Logo removed as requested -->
     MMX, ASWATH NAGAR, BENGALURU<br>
-    📞 +91-9676831734, +91-9676831734<br>
-    📧 <a href="mailto:tango143143@gmail.com">tango143143@gmail.com</a><br><br>
+       📧 <a href="mailto:tango143143@gmail.com">tango143143@gmail.com</a><br><br>
     <a href="mailto:tango143143@gmail.com">Mail to DCMU</a>
 </div>
 
