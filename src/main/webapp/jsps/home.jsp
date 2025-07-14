@@ -8,21 +8,21 @@
 
 <style>
     body {
-        background-color: #f2f2f2;
+        background-color: #e6f2ff; /* Sky blue background */
         font-family: Arial, sans-serif;
-        color: #333;
+        color: #003366; /* Deep blue text */
     }
     h1.title {
-        color: #006699; /* Updated heading color */
+        color: #003366;
         text-align: center;
         margin-top: 20px;
     }
     hr {
-        border: 2px solid #005580;
+        border: 2px solid #003366;
     }
     .section {
         background-color: #ffffff;
-        border: 1px solid #cccccc;
+        border: 1px solid #87CEEB; /* Light sky blue border */
         margin: 20px auto;
         padding: 20px;
         width: 80%;
@@ -41,7 +41,7 @@
         color: #666;
     }
     a {
-        color: #0066cc;
+        color: #0059b3;
         text-decoration: none;
     }
     a:hover {
@@ -56,7 +56,7 @@
 <hr>
 
 <div class="section contact-info">
-    <img src="images/kkfunda.jpg" alt="KK FUNDA Logo" width="100"><br><br>
+    <!-- Logo removed as requested -->
     MMX, ASWATH NAGAR, BENGALURU<br>
     📞 +91-9676831734, +91-9676831734<br>
     📧 <a href="mailto:tango143143@gmail.com">tango143143@gmail.com</a><br><br>
