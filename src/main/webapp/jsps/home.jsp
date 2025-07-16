@@ -8,21 +8,21 @@
 
 <style>
     body {
-        background-color: #e6f2ff; /* Sky blue background */
+        background-color: #ffe6e6; /* Light red background */
         font-family: Arial, sans-serif;
-        color: #003366; /* Deep blue text */
+        color: #660000; /* Dark red text */
     }
     h1.title {
-        color: #003366;
+        color: #990000;
         text-align: center;
         margin-top: 20px;
     }
     hr {
-        border: 2px solid #003366;
+        border: 2px solid #990000;
     }
     .section {
-        background-color: #ffffff;
-        border: 1px solid #87CEEB; /* Light sky blue border */
+        background-color: #fff5f5;
+        border: 1px solid #ff9999; /* Light red border */
         margin: 20px auto;
         padding: 20px;
         width: 80%;
@@ -32,16 +32,16 @@
     .contact-info {
         text-align: center;
         font-weight: bold;
-        color: #003366;
+        color: #990000;
     }
     .footer {
         text-align: center;
         font-size: small;
         margin-top: 30px;
-        color: #666;
+        color: #993333;
     }
     a {
-        color: #0059b3;
+        color: #cc0000;
         text-decoration: none;
     }
     a:hover {
@@ -58,7 +58,7 @@
 <div class="section contact-info">
     <!-- Logo removed as requested -->
     MMX, ASWATH NAGAR, BENGALURU<br>
-       📧 <a href="mailto:tango143143@gmail.com">tango143143@gmail.com</a><br><br>
+    📧 <a href="mailto:tango143143@gmail.com">tango143143@gmail.com</a><br><br>
     <a href="mailto:tango143143@gmail.com">Mail to DCMU</a>
 </div>
 
