@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>DCMU Home Page</title>
+<title>SUSHANTH KETANA</title>
 <link href="images/kkfunda.jpg" rel="icon">
 
 <style>
@@ -51,7 +51,7 @@
 </head>
 <body>
 
-<h1 class="title">WELCOME TO DATA CENTER MANAGEMENT UNIT</h1>
+<h1 class="title">WELCOME TO TAMMINANA HOME</h1>
 <h1 class="title">BENGALURU</h1>
 <hr>
 
