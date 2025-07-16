@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>SUSHANTH KETANA</title>
+<title>SUSHANTH TAMMINANA</title>
 <link href="images/kkfunda.jpg" rel="icon">
 
 <style>
