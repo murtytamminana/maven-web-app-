@@ -63,7 +63,7 @@
 </div>
 
 <div class="section">
-    <h2>👤 About SUSHANTH KETANA</h2>
+    <h2>👤 About SUSHANTH TAMMINANA</h2>
     <p>
         Hello! I am <strong>Sushanth Ketana</strong>, a passionate IT professional based in Bengaluru. 
         I specialize in network administration, Microsoft Exchange, and data center operations. 
