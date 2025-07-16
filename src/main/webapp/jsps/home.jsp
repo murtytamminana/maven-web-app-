@@ -63,6 +63,20 @@
 </div>
 
 <div class="section">
+    <h2>👤 About SUSHANTH KETANA</h2>
+    <p>
+        Hello! I am <strong>Sushanth Ketana</strong>, a passionate IT professional based in Bengaluru. 
+        I specialize in network administration, Microsoft Exchange, and data center operations. 
+        With over 15 years of industry experience, I bring robust technical expertise and a strong commitment 
+        to delivering reliable infrastructure solutions.
+    </p>
+    <p>
+        I believe in continuous learning and innovation, and I’m actively involved in training and mentoring 
+        upcoming professionals through KK FUNDA. My interests include cloud technologies, cybersecurity, and automation.
+    </p>
+</div>
+
+<div class="section">
     <p>🛠️ Service Link: <a href="services/employee/getEmployeeDetails">Get Employee Details</a></p>
 </div>
 
